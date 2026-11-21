@@ -1,2 +1,2 @@
-# MarvinOro.github.io
+# marv-tech.github.io
 My personal website
